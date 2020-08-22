@@ -4,6 +4,15 @@
 - Play here = https://www.doolpool.com/play/Play-Online/Tank-Game/
 - Information = https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
 
+
+| Project | Version | Description |
+|---------|--------|-------------|
+| [Version 1.0]| Vs 1.0 | Version inicial |.
+| [Version 2.5]| Vs 2.5 | Version mejorada::time&new-tank |
+
+[Version 1.0]: https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
+[Version 2.5]: https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
+
 <p align="center">
 <img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="500" height="400"/>
 </p>
@@ -52,9 +61,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doolpool&show_icons=true" alt="doolpool" /></p>
 
 <p align="center">
--  <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
-- <a alt="red doolpool" href="https://doolpool.com/red/">Red DoolPool</a>
--  <a alt="music doolpool" href="https://doolpool.com/music"> Music DoolPool</a>
+  
+ • <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
+ • <a alt="red doolpool" href="https://doolpool.com/red/">Red DoolPool</a>
+ • <a alt="music doolpool" href="https://doolpool.com/music"> Music DoolPool</a>
+  
 </p> 
 <p align="center"> © 2018-2020 DoolPool Inc. <br>All right reserved in <a href="https://doolpool.com/docs/">Documentation</a>.</p>
            
