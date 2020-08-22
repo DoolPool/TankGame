@@ -1,9 +1,10 @@
 # TankGame
-The fun and very popular Tanks Game, developed with Js, Html, Css.
+<p>The fun and very popular Tanks Game, developed with Js, Html, Css.</p>
 - Play here::https://www.doolpool.com/play/Play-Online/Tank-Game/
 - Information::https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
-<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="600" height="300"/>
-<p>End Information.</p>
+<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="500" height="450"/>
+<p>End of information.</p>
+<hr>
 <h1 align="center">Hi 👋, we are DoolPool, Inc.</h1>
 <h3 align="center">We are passionate frontend and backend developers located in Peru</h3>
 
