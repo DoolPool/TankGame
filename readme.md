@@ -15,7 +15,7 @@
 [Version 2.5]: https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
 
 <p align="center">
-<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="500" height="400"/>
+<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="300" height="150"/>
 </p>
 <p align="center">End of information.</p>
 
@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **doolpool.company@gmail.com**
 
-<p align="left">
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -55,14 +55,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p><p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doolpool&layout=compact&hide=html" alt="doolpool" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doolpool&show_icons=true" alt="doolpool" /></p>
 
 <p align="center">
- • <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
+   <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
  • <a alt="red doolpool" href="https://doolpool.com/red/">Red DoolPool</a>
  • <a alt="music doolpool" href="https://doolpool.com/music"> Music DoolPool</a>
 </p> 
