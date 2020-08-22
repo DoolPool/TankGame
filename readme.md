@@ -5,10 +5,11 @@
 - Information = https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
 
 <p align="center">
-<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="400" height="400"/>
+<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="500" height="400"/>
 </p>
 <p align="center">End of information.</p>
 <hr>
+<p align="center"><a href="https://doolpool.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://www.doolpool.com/assets/src=ico=doolpool.png" alt="Vue logo"></a></p>
 <h1 align="center">Hi 👋, we are DoolPool, Inc.</h1>
 <h3 align="center">We are passionate frontend and backend developers located in Peru</h3>
 
