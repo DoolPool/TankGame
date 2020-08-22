@@ -14,12 +14,26 @@
 [Version 1.0]: https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
 [Version 2.5]: https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
 
+## Tools
+
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+</p>
+
+## Images
+
 <p align="center">
 <img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="300" height="150"/>
 </p>
+
 <p align="center">End of information.</p>
 
 <hr>
+
 <p align="center">
   <a href="https://doolpool.com" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://www.doolpool.com/assets/src=ico=doolpool.png" alt="DoolPool logo">
@@ -30,9 +44,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=doolpool" alt="doolpool" /> </p>
 
+## Contac
+
 - 🔭 I’m currently working on [DoolPool, Inc](https://doolpool.com1)
 
 - 📫 How to reach me **doolpool.company@gmail.com**
+
+## Tools and Languages
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -58,7 +76,9 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doolpool&show_icons=true" alt="doolpool" /></p>
+## Information
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doolpool&show_icons=true" alt="doolpool" /></p>
 
 <p align="center">
    <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
