@@ -1,6 +1,5 @@
-// Created by Ronald Ramos Malca - xaxke.
-//Derechos de autor reservados en xProow
-
+// Created by Ronald Ramos Malca - DoolPool.
+//Derechos de autor reservados en Play DoolPool.
 
 var w, h, k, xo, yo,
     units = [],
@@ -432,8 +431,8 @@ var startGame = function () {
      lastTime = Date.now();
         
         
-     // units
-     // stats -- status, pos, hp, speed, maxspeed, range, damage, reload, angle, defaultangle , dir, sprite
+     // unidades
+     // estadísticas(stats): -- status, pos, hp, speed, maxspeed, range, damage, reload, angle, defaultangle , dir, sprite
          
        var basictank = ['acceleration', [0,0], 1500, 0, k*1.1, k*7, 399, 1.3, -90, -90, 1, new Sprite('https://opengameart.org/sites/default/files/tanks_3.png', [55, 76], [194, 135], [c.width/11, c.height/21])];
         
@@ -447,12 +446,8 @@ var startGame = function () {
            
         var enemyttank  = ['acceleration', [0, 0], 150, 0, k*2.1, k*12.5, 30, 0.15, -90, -90, -1, new Sprite( "https://opengameart.org/sites/default/files/tanks_3.png", [362, 269], [205, 124], [c.width/11.6, c.height/24])];
            
-       
-        
-            main()
-// The main game loop
-    
-    
+     main()
+// El bucle principal del juego
     
          function main() {
     
@@ -517,11 +512,8 @@ var startGame = function () {
     
       function updateEntities(dt, list) {
     
-        // Update the tank position
-       
-           
-           
-        
+        // Actualizar la posición del tanque
+
         for(var i=0; i<list.length; i++) {
                
            var u = list[i];
@@ -580,9 +572,6 @@ var startGame = function () {
                       }else if (u.cang > u.angle) { 
                    u.angle += 75*dt;
                     }
-        
-               
-               
               }  
             }
             
@@ -653,19 +642,19 @@ var startGame = function () {
     
       function updateBullets (dt){
       
-         // Update all the explosions
+         // Actualiza todas las explosiones
     
         for(var i=0; i<explosions.length; i++) {
             explosions[i].sprite.update(dt);
     
-            // Remove if animation is done
+            // Eliminar si la animación está lista
             if(explosions[i].sprite.done) {
                 explosions.splice(i, 1);
                 i--;
             }
         }
       
-        // Update all the bullets
+        // Actualiza todas las viñetas
     
         for(var i=0; i<bullets.length; i++) {
     
@@ -677,7 +666,7 @@ var startGame = function () {
     
     
            
-            // Remove the bullet
+            // Quita la bala
     
             if (b.pos[1] < b.target.pos[1]+k && b.pos[1] > b.target.pos[1]-k &&  b.pos[0] < b.target.pos[0]+k && b.pos[0] > b.target.pos[0]-k ) {
                bullets.splice(i, 1);
@@ -878,11 +867,6 @@ var startGame = function () {
      
     };
     
-    
-
-
-  
-  
 /////////////^^^^^^^^^^^^^^////////////
             
              var requestAnimFrame = (function(){
