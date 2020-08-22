@@ -1,9 +1,11 @@
 # TankGame
 <p>The fun and very popular Tanks Game, developed with Js, Html, Css.</p>
--  Play here = https://www.doolpool.com/play/Play-Online/Tank-Game/
--  Information = https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
+
+- Play here = https://www.doolpool.com/play/Play-Online/Tank-Game/
+- Information = https://www.doolpool.com/play/Play-Online/Tank-Game/info.php
+
 <p align="center">
-<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="400" height="300"/>
+<img src="https://www.doolpool.com/play/Play-Online/Tank-Game/src=img/Tank-Game.png" alt="TankGame" width="400" height="400"/>
 </p>
 <p align="center">End of information.</p>
 <hr>
