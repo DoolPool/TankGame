@@ -1,5 +1,5 @@
 // Created by Ronald Ramos Malca - DoolPool.
-//Derechos de autor reservados en Play DoolPool.
+// Derechos de autor reservados en Play DoolPool.
 
 var w, h, k, xo, yo,
     units = [],
@@ -32,22 +32,14 @@ var w, h, k, xo, yo,
    this._index = _index;
    this.once = once;
   };
-
      Sprite.prototype = {
      
          update: function(dt) {
-
             this._index += this.animspeed*dt;
-
         },
 
-
-
-         render: function(ctx) {
-               
-               var frame;
-
-
+         render: function(ctx) {   
+           var frame;
             if(this.animspeed > 0) {
                 var max = this.frames.length;
                 var idx = Math.floor(this._index);
@@ -199,8 +191,6 @@ var w, h, k, xo, yo,
             
         };
         
-        
-        
         var returnToBase = function (icon) {
             icon.pos = icon.defaultpos;
             icon.dragable = false;
@@ -210,8 +200,7 @@ var w, h, k, xo, yo,
             
              var _min = Math.floor(gameTime/60);
                    var _sec =  ('0' + Math.floor(gameTime%60)).slice(-2); 
-    
-
+            
     switch (a) {
     
        case 'win' :
@@ -292,9 +281,8 @@ var startGame = function () {
      
        xo = c.offsetLeft;
        yo = c.offsetTop;
-
-       
-       ////
+   
+////
  
        icons = [{
             pos : [c.width/28, c.height - c.height/8],
@@ -525,7 +513,7 @@ var startGame = function () {
             u.time = u.time + dt || 0;
             u.lastshot = u.lastshot + dt || 0;
             u.avoidCollision(list, i, dt);
-            //remove 
+            //remover
             if (u.destroyed) {
                 list.splice(i,1);
                 i--;
@@ -685,12 +673,8 @@ var startGame = function () {
               }  
             }    
         } 
-    
-         
-         }
-    
-    
-    
+     }
+  
       function render() {  
       
           if (!isGameOver) {
@@ -965,3 +949,5 @@ var startGame = function () {
 ]);
 
   resources.onReady(loader);
+
+// The End
